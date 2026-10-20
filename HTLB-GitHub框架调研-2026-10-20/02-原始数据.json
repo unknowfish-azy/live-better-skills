@@ -1,0 +1,1393 @@
+{
+  "meta": {
+    "generated_at": "2026-10-20T02:26:19.079Z",
+    "date_label": "2026-10-20",
+    "source": "GitHub REST API v3 (unauthenticated)",
+    "notes": "28 curated repos + 10 GitHub search queries. Star counts are a 2026-10-20 snapshot; metadata captured via GitHub REST API."
+  },
+  "repos": [
+    {
+      "category": "direct",
+      "repo": "eternity4719/HowToLiveBetter",
+      "url": "https://github.com/eternity4719/HowToLiveBetter",
+      "description": "高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
+      "stars": 66453,
+      "forks": 5707,
+      "language": "HTML",
+      "license": "CC-BY-4.0",
+      "created": "2026-09-07",
+      "pushed": "2026-10-15",
+      "topics": [],
+      "archived": false,
+      "homepage": "https://eternity4719.github.io/HowToLiveBetter/"
+    },
+    {
+      "category": "direct",
+      "repo": "HuiTurn/HowToLiveBetter",
+      "url": "https://github.com/HuiTurn/HowToLiveBetter",
+      "description": "人生指南库 · 高性价比人生指南小程序版；收录《高性价比人生指南》765 条循证建议，支持全文搜索、收藏、离线阅读、每日一读",
+      "stars": 152,
+      "forks": 11,
+      "language": "JavaScript",
+      "license": "CC-BY-4.0",
+      "created": "2026-09-29",
+      "pushed": "2026-10-15",
+      "topics": [
+        "evidence-based",
+        "howtolivebetter",
+        "life-guide",
+        "miniapp",
+        "miniprogram",
+        "wechat-miniapp"
+      ],
+      "archived": false,
+      "homepage": "https://wxmpurl.cn/Iw5uIIlkv6h"
+    },
+    {
+      "category": "direct",
+      "repo": "ringozzt/howtolivebetter-research",
+      "url": "https://github.com/ringozzt/howtolivebetter-research",
+      "description": "eternity4719/HowToLiveBetter 开源项目调研报告与思维导图（612 条循证生活指南）",
+      "stars": 12,
+      "forks": 0,
+      "language": "HTML",
+      "license": null,
+      "created": "2026-09-28",
+      "pushed": "2026-09-28",
+      "topics": [],
+      "archived": false,
+      "homepage": null
+    },
+    {
+      "category": "direct",
+      "repo": "madkoding/HowToLiveBetter-CL",
+      "url": "https://github.com/madkoding/HowToLiveBetter-CL",
+      "description": "Guía de la vida rentable · Chile — adaptación chilena de HowToLiveBetter: 568 recomendaciones con costo, beneficio, grado de evidencia y fuente oficial. Incluye la skill universal para adaptar guías de este tipo a otro país.",
+      "stars": 8,
+      "forks": 0,
+      "language": "Python",
+      "license": "Unlicense",
+      "created": "2026-09-21",
+      "pushed": "2026-10-12",
+      "topics": [],
+      "archived": false,
+      "homepage": null
+    },
+    {
+      "category": "direct",
+      "repo": "geekan/HowToLiveLonger",
+      "url": "https://github.com/geekan/HowToLiveLonger",
+      "description": "程序员延寿指南 | A programmer's guide to live longer",
+      "stars": 35806,
+      "forks": 2401,
+      "language": null,
+      "license": "Unlicense",
+      "created": "2022-04-16",
+      "pushed": "2025-05-19",
+      "topics": [
+        "livelonger",
+        "programmer"
+      ],
+      "archived": false,
+      "homepage": ""
+    },
+    {
+      "category": "direct",
+      "repo": "yixinagqingyuan/life-guide-skill",
+      "url": "https://github.com/yixinagqingyuan/life-guide-skill",
+      "description": "高性价比人生指南本地知识库 Skill：原文内置，BM25F 检索、近义表达、完整上下文与引文校验。",
+      "stars": 6,
+      "forks": 1,
+      "language": "Python",
+      "license": null,
+      "created": "2026-10-10",
+      "pushed": "2026-10-10",
+      "topics": [],
+      "archived": false,
+      "homepage": null
+    },
+    {
+      "category": "kb",
+      "repo": "tobi/qmd",
+      "url": "https://github.com/tobi/qmd",
+      "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
+      "stars": 30495,
+      "forks": 1916,
+      "language": "TypeScript",
+      "license": "MIT",
+      "created": "2025-12-08",
+      "pushed": "2026-10-15",
+      "topics": [],
+      "archived": false,
+      "homepage": ""
+    },
+    {
+      "category": "kb",
+      "repo": "hi-horan/knowshelf",
+      "url": "https://github.com/hi-horan/knowshelf",
+      "description": "Personal Markdown Book Knowledge Base MCP Service. 个人 Markdown 书籍知识库 MCP 服务。",
+      "stars": 1,
+      "forks": 0,
+      "language": "Go",
+      "license": "Apache-2.0",
+      "created": "2026-05-06",
+      "pushed": "2026-05-18",
+      "topics": [
+        "bm25",
+        "chunking",
+        "eino",
+        "embedding",
+        "golang",
+        "hybrid-search",
+        "knowledge-base",
+        "mcp",
+        "mcp-server",
+        "rag",
+        "rerank",
+        "rrf",
+        "sqlite",
+        "sqlite-vec"
+      ],
+      "archived": false,
+      "homepage": ""
+    },
+    {
+      "category": "kb",
+      "repo": "ageerle/ruoyi-ai",
+      "url": "https://github.com/ageerle/ruoyi-ai",
+      "description": "Enterprise-grade AI agent framework with multi-provider LLM management, secure knowledge bases and high-precision RAG, visual workflow orchestration, and multi-agent coordination.",
+      "stars": 5761,
+      "forks": 1416,
+      "language": "Java",
+      "license": "MIT",
+      "created": "2024-01-16",
+      "pushed": "2026-10-20",
+      "topics": [
+        "agent",
+        "ai",
+        "knowledge",
+        "mcp",
+        "rag"
+      ],
+      "archived": false,
+      "homepage": "https://doc.ruoyiai.chat"
+    },
+    {
+      "category": "kb",
+      "repo": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "stars": 92496,
+      "forks": 11041,
+      "language": "Go",
+      "license": "Apache-2.0",
+      "created": "2023-12-12",
+      "pushed": "2026-10-20",
+      "topics": [
+        "agent-harness",
+        "agentic-ai",
+        "agentic-nagive",
+        "agentic-retrieval",
+        "agentic-search",
+        "ai",
+        "ai-agents",
+        "context-engine",
+        "context-engineering",
+        "context-management",
+        "harness-engineering",
+        "knowledge-compilation",
+        "rag",
+        "retrieval-augmented-generation",
+        "search-harness"
+      ],
+      "archived": false,
+      "homepage": "https://ragflow.io"
+    },
+    {
+      "category": "kb",
+      "repo": "labring/FastGPT",
+      "url": "https://github.com/labring/FastGPT",
+      "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
+      "stars": 29869,
+      "forks": 7339,
+      "language": "TypeScript",
+      "license": "NOASSERTION",
+      "created": "2023-02-23",
+      "pushed": "2026-10-19",
+      "topics": [
+        "agent",
+        "claude",
+        "deepseek",
+        "llm",
+        "mcp",
+        "nextjs",
+        "openai",
+        "qwen",
+        "rag",
+        "workflow"
+      ],
+      "archived": false,
+      "homepage": "https://fastgpt.io"
+    },
+    {
+      "category": "kb",
+      "repo": "1Panel-dev/MaxKB",
+      "url": "https://github.com/1Panel-dev/MaxKB",
+      "description": "🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。",
+      "stars": 23000,
+      "forks": 3385,
+      "language": "Python",
+      "license": "GPL-3.0",
+      "created": "2023-09-14",
+      "pushed": "2026-10-20",
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "chatbot",
+        "deepseek-r1",
+        "knowledgebase",
+        "langchain",
+        "llama3",
+        "llm",
+        "maxkb",
+        "mcp-server",
+        "ollama",
+        "pgvector",
+        "qwen3",
+        "rag"
+      ],
+      "archived": false,
+      "homepage": "https://maxkb.cn"
+    },
+    {
+      "category": "kb",
+      "repo": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "stars": 158944,
+      "forks": 25121,
+      "language": "Python",
+      "license": "NOASSERTION",
+      "created": "2023-04-12",
+      "pushed": "2026-10-20",
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "agentic-framework",
+        "agentic-workflow",
+        "ai",
+        "automation",
+        "claude",
+        "deepseek",
+        "genai",
+        "gpt",
+        "llm",
+        "low-code",
+        "mcp",
+        "nextjs",
+        "no-code",
+        "openai",
+        "python",
+        "skills",
+        "workflow"
+      ],
+      "archived": false,
+      "homepage": "https://dify.ai"
+    },
+    {
+      "category": "kb",
+      "repo": "Mintplex-Labs/anything-llm",
+      "url": "https://github.com/Mintplex-Labs/anything-llm",
+      "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience ",
+      "stars": 67330,
+      "forks": 7541,
+      "language": "JavaScript",
+      "license": "MIT",
+      "created": "2023-06-04",
+      "pushed": "2026-10-20",
+      "topics": [
+        "agent-computer",
+        "agent-harness",
+        "agent-orchestration",
+        "agentic-ai",
+        "agentic-workflow",
+        "ai-agents",
+        "computer-use",
+        "hermes-agent",
+        "llm",
+        "local-ai",
+        "localai",
+        "multimodal",
+        "rag",
+        "self-hosted-ai",
+        "vector-database"
+      ],
+      "archived": false,
+      "homepage": "https://anythingllm.com"
+    },
+    {
+      "category": "kb",
+      "repo": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "stars": 156206,
+      "forks": 22734,
+      "language": "Python",
+      "license": "NOASSERTION",
+      "created": "2023-10-06",
+      "pushed": "2026-10-19",
+      "topics": [
+        "ai",
+        "llm",
+        "llm-ui",
+        "llm-webui",
+        "llms",
+        "mcp",
+        "ollama",
+        "ollama-webui",
+        "open-webui",
+        "openai",
+        "openapi",
+        "rag",
+        "self-hosted",
+        "ui",
+        "webui"
+      ],
+      "archived": false,
+      "homepage": "https://openwebui.com"
+    },
+    {
+      "category": "kb",
+      "repo": "khoj-ai/khoj",
+      "url": "https://github.com/khoj-ai/khoj",
+      "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
+      "stars": 37752,
+      "forks": 2525,
+      "language": "Python",
+      "license": "AGPL-3.0",
+      "created": "2021-08-16",
+      "pushed": "2026-08-02",
+      "topics": [
+        "agent",
+        "ai",
+        "assistant",
+        "chat",
+        "chatgpt",
+        "emacs",
+        "image-generation",
+        "llama3",
+        "llamacpp",
+        "llm",
+        "obsidian",
+        "obsidian-md",
+        "offline-llm",
+        "productivity",
+        "rag",
+        "research",
+        "self-hosted",
+        "semantic-search",
+        "stt",
+        "whatsapp-ai"
+      ],
+      "archived": false,
+      "homepage": "https://khoj.dev"
+    },
+    {
+      "category": "kb",
+      "repo": "Zleap-AI/SAG",
+      "url": "https://github.com/Zleap-AI/SAG",
+      "description": "A new SOTA for RAG — an original retrieval architecture and an open-source knowledge base for humans and agents.",
+      "stars": 2601,
+      "forks": 181,
+      "language": "Python",
+      "license": "MIT",
+      "created": "2025-11-07",
+      "pushed": "2026-10-19",
+      "topics": [
+        "agent",
+        "ai",
+        "data-engineering",
+        "graphrag",
+        "knowledge-base",
+        "knowledge-graph",
+        "knowledge-graphs",
+        "llm",
+        "rag",
+        "sag",
+        "vector-search"
+      ],
+      "archived": false,
+      "homepage": "https://zleap.com"
+    },
+    {
+      "category": "kb",
+      "repo": "HKUDS/LightRAG",
+      "url": "https://github.com/HKUDS/LightRAG",
+      "description": "[EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation",
+      "stars": 40219,
+      "forks": 5706,
+      "language": "Python",
+      "license": "MIT",
+      "created": "2024-10-02",
+      "pushed": "2026-10-15",
+      "topics": [
+        "docling",
+        "genai",
+        "gpt",
+        "graphrag",
+        "knowledge-graph",
+        "large-language-models",
+        "llm",
+        "mineru",
+        "rag",
+        "ragas",
+        "retrieval-augmented-generation"
+      ],
+      "archived": false,
+      "homepage": "https://arxiv.org/abs/2410.05779"
+    },
+    {
+      "category": "kb",
+      "repo": "microsoft/graphrag",
+      "url": "https://github.com/microsoft/graphrag",
+      "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
+      "stars": 36388,
+      "forks": 3859,
+      "language": "Python",
+      "license": "MIT",
+      "created": "2024-03-27",
+      "pushed": "2026-10-19",
+      "topics": [
+        "gpt",
+        "gpt-4",
+        "gpt4",
+        "graphrag",
+        "llm",
+        "llms",
+        "rag"
+      ],
+      "archived": false,
+      "homepage": "https://microsoft.github.io/graphrag/"
+    },
+    {
+      "category": "kb",
+      "repo": "getzep/graphiti",
+      "url": "https://github.com/getzep/graphiti",
+      "description": "Build Real-Time Knowledge Graphs for AI Agents",
+      "stars": 32049,
+      "forks": 3294,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "created": "2024-08-08",
+      "pushed": "2026-10-19",
+      "topics": [
+        "agents",
+        "graph",
+        "llms",
+        "rag"
+      ],
+      "archived": false,
+      "homepage": "https://help.getzep.com/graphiti"
+    },
+    {
+      "category": "kb",
+      "repo": "topoteretes/cognee",
+      "url": "https://github.com/topoteretes/cognee",
+      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small models for free",
+      "stars": 32554,
+      "forks": 3413,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "created": "2023-08-16",
+      "pushed": "2026-10-20",
+      "topics": [
+        "agent-memory",
+        "agent-skills",
+        "ai",
+        "ai-agents",
+        "ai-memory",
+        "cognitive-architecture",
+        "cognitive-memory",
+        "context-engineering",
+        "contributions-welcome",
+        "good-first-issue",
+        "good-first-pr",
+        "graph-database",
+        "graph-rag",
+        "help-wanted",
+        "knowledge",
+        "knowledge-graph",
+        "memory-management",
+        "open-source",
+        "vector-database"
+      ],
+      "archived": false,
+      "homepage": "https://www.cognee.ai"
+    },
+    {
+      "category": "evidence",
+      "repo": "semantica-agi/semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "stars": 14140,
+      "forks": 1741,
+      "language": "Python",
+      "license": "MIT",
+      "created": "2025-06-25",
+      "pushed": "2026-10-19",
+      "topics": [
+        "agent-memory",
+        "ai",
+        "ai-governance",
+        "ai-infrastructure",
+        "artificial-intelligence",
+        "context-engineering",
+        "context-graphs",
+        "data-engineering",
+        "decision-intelligence",
+        "developer-tools",
+        "explainable-ai",
+        "generative-ai",
+        "graph-rag",
+        "knowledge-graph",
+        "llm",
+        "ontology",
+        "provenance",
+        "python",
+        "reasoning",
+        "semantic-search"
+      ],
+      "archived": false,
+      "homepage": "https://getsemantica.ai"
+    },
+    {
+      "category": "evidence",
+      "repo": "arguman/arguman.org",
+      "url": "https://github.com/arguman/arguman.org",
+      "description": "Argument mapping and analysis platform",
+      "stars": 1418,
+      "forks": 150,
+      "language": "Python",
+      "license": "NOASSERTION",
+      "created": "2014-10-12",
+      "pushed": "2022-03-05",
+      "topics": [
+        "arguman",
+        "computational-linguistics",
+        "critical-thinking",
+        "django",
+        "python"
+      ],
+      "archived": false,
+      "homepage": "https://arguman.org"
+    },
+    {
+      "category": "evidence",
+      "repo": "OpSafari/hypoarena",
+      "url": "https://github.com/OpSafari/hypoarena",
+      "description": "Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tournaments recovering planted skill order, paraphrase dedup, Bayesian evidence accumulation, reproducible reports. NumPy core, CPU-only torch extra.",
+      "stars": 555,
+      "forks": 30,
+      "language": "Python",
+      "license": "MIT",
+      "created": "2026-09-30",
+      "pushed": "2026-10-14",
+      "topics": [],
+      "archived": false,
+      "homepage": null
+    },
+    {
+      "category": "monitor",
+      "repo": "dgtlmoon/changedetection.io",
+      "url": "https://github.com/dgtlmoon/changedetection.io",
+      "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!",
+      "stars": 35133,
+      "forks": 2165,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "created": "2021-01-27",
+      "pushed": "2026-10-19",
+      "topics": [
+        "back-in-stock",
+        "change-alert",
+        "change-detection",
+        "change-monitoring",
+        "monitoring",
+        "notifications",
+        "restock-monitor",
+        "rss",
+        "self-hosted",
+        "url-monitor",
+        "web-scraping",
+        "website-change-detection",
+        "website-change-detector",
+        "website-change-monitor",
+        "website-change-notification",
+        "website-change-tracker",
+        "website-defacement-monitoring",
+        "website-monitor",
+        "website-monitoring",
+        "website-watcher"
+      ],
+      "archived": false,
+      "homepage": "https://changedetection.io"
+    },
+    {
+      "category": "rules",
+      "repo": "openfisca/openfisca-core",
+      "url": "https://github.com/openfisca/openfisca-core",
+      "description": "OpenFisca core engine. See other repositories for countries-specific code & data.",
+      "stars": 247,
+      "forks": 95,
+      "language": "Python",
+      "license": "AGPL-3.0",
+      "created": "2013-12-29",
+      "pushed": "2026-10-19",
+      "topics": [
+        "better-rules",
+        "legislation-as-code",
+        "microsimulation",
+        "rules-as-code"
+      ],
+      "archived": false,
+      "homepage": "https://openfisca.org"
+    },
+    {
+      "category": "rules",
+      "repo": "PolicyEngine/policyengine-us",
+      "url": "https://github.com/PolicyEngine/policyengine-us",
+      "description": "The PolicyEngine US Python package contains a rules engine of the US tax-benefit system, and microdata generation for microsimulation analysis.",
+      "stars": 169,
+      "forks": 217,
+      "language": "Python",
+      "license": "AGPL-3.0",
+      "created": "2021-06-23",
+      "pushed": "2026-10-20",
+      "topics": [
+        "economic-policy",
+        "economics",
+        "inequality",
+        "policy",
+        "poverty",
+        "public-policy",
+        "python",
+        "tax",
+        "united-states"
+      ],
+      "archived": false,
+      "homepage": "https://policyengine.org/us"
+    },
+    {
+      "category": "eval",
+      "repo": "promptfoo/promptfoo",
+      "url": "https://github.com/promptfoo/promptfoo",
+      "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic.",
+      "stars": 26158,
+      "forks": 2519,
+      "language": "TypeScript",
+      "license": "MIT",
+      "created": "2023-04-28",
+      "pushed": "2026-10-20",
+      "topics": [
+        "ci",
+        "ci-cd",
+        "cicd",
+        "evaluation",
+        "evaluation-framework",
+        "llm",
+        "llm-eval",
+        "llm-evaluation",
+        "llm-evaluation-framework",
+        "llmops",
+        "pentesting",
+        "prompt-engineering",
+        "prompt-testing",
+        "prompts",
+        "rag",
+        "red-teaming",
+        "testing",
+        "vulnerability-scanners"
+      ],
+      "archived": false,
+      "homepage": "https://promptfoo.dev"
+    }
+  ],
+  "queries": [
+    {
+      "q": "howtolivebetter in:name",
+      "total": 63,
+      "items": [
+        {
+          "repo": "eternity4719/HowToLiveBetter",
+          "url": "https://github.com/eternity4719/HowToLiveBetter",
+          "description": "高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
+          "stars": 66456,
+          "language": "HTML",
+          "pushed": "2026-10-15"
+        },
+        {
+          "repo": "HuiTurn/HowToLiveBetter",
+          "url": "https://github.com/HuiTurn/HowToLiveBetter",
+          "description": "人生指南库 · 高性价比人生指南小程序版；收录《高性价比人生指南》765 条循证建议，支持全文搜索、收藏、离线阅读、每日一读",
+          "stars": 152,
+          "language": "JavaScript",
+          "pushed": "2026-10-15"
+        },
+        {
+          "repo": "Shijiuwei/HowToLiveBetter-mirror-949",
+          "url": "https://github.com/Shijiuwei/HowToLiveBetter-mirror-949",
+          "description": "High availability mirror and network topology specifications for eternity4719/HowToLiveBetter",
+          "stars": 30,
+          "language": "HTML",
+          "pushed": "2026-10-12"
+        },
+        {
+          "repo": "WenWuZhiDao/HowToLiveBetter",
+          "url": "https://github.com/WenWuZhiDao/HowToLiveBetter",
+          "description": "高性价比人生指南  fork from : https://eternity4719.github.io/HowToLiveBetter/?sec=1",
+          "stars": 19,
+          "language": null,
+          "pushed": "2026-10-09"
+        },
+        {
+          "repo": "ringozzt/howtolivebetter-research",
+          "url": "https://github.com/ringozzt/howtolivebetter-research",
+          "description": "eternity4719/HowToLiveBetter 开源项目调研报告与思维导图（612 条循证生活指南）",
+          "stars": 12,
+          "language": "HTML",
+          "pushed": "2026-09-28"
+        },
+        {
+          "repo": "madkoding/HowToLiveBetter-CL",
+          "url": "https://github.com/madkoding/HowToLiveBetter-CL",
+          "description": "Guía de la vida rentable · Chile — adaptación chilena de HowToLiveBetter: 568 recomendaciones con costo, beneficio, grado de evidencia y fuente oficial. Incluye la skill universal para adaptar guías de este tipo a otro país.",
+          "stars": 8,
+          "language": "Python",
+          "pushed": "2026-10-12"
+        },
+        {
+          "repo": "Mamasodikov/HowToLiveBetter-uz",
+          "url": "https://github.com/Mamasodikov/HowToLiveBetter-uz",
+          "description": "Samarali hayot qoʻllanmasi — eng kam pul, vaqt va kuch evaziga eng koʻp umr, pul va shaxsiy erkinlik. Oʻzbek tiliga tarjima va Oʻzbekistonga moslashtirilgan (asl: eternity4719/HowToLiveBetter, public domain).",
+          "stars": 7,
+          "language": "HTML",
+          "pushed": "2026-09-19"
+        },
+        {
+          "repo": "Taylor107ai/howtolivebetter-hk",
+          "url": "https://github.com/Taylor107ai/howtolivebetter-hk",
+          "description": "高性價比人生指南：繁體中文手機閱讀版，可搜尋、跳轉及分享指定段落",
+          "stars": 5,
+          "language": "HTML",
+          "pushed": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "q": "\"life guide\" in:name,description",
+      "total": 334,
+      "items": [
+        {
+          "repo": "LeGai325/XDUer-Study-and-Life-Guide",
+          "url": "https://github.com/LeGai325/XDUer-Study-and-Life-Guide",
+          "description": "西电生活指南与计算机网信课程攻略开源共享项目——从入学到实习工作/升学的全方位指南，给各位西电的萌新一点小小的西电震撼！",
+          "stars": 24,
+          "language": null,
+          "pushed": "2026-02-14"
+        },
+        {
+          "repo": "qingchencloud/low-cost-life-guide",
+          "url": "https://github.com/qingchencloud/low-cost-life-guide",
+          "description": "低性价比人生指南：错误建议与高代价决策的反面案例库",
+          "stars": 16,
+          "language": "Python",
+          "pushed": "2026-09-29"
+        },
+        {
+          "repo": "hikalium/lifestyle_guide",
+          "url": "https://github.com/hikalium/lifestyle_guide",
+          "description": "hikalium's lifestyle guide",
+          "stars": 14,
+          "language": null,
+          "pushed": "2025-02-16"
+        },
+        {
+          "repo": "Sciencekex/studying-abroad-CS-in-Japan-Life-Guide",
+          "url": "https://github.com/Sciencekex/studying-abroad-CS-in-Japan-Life-Guide",
+          "description": "[文稿整理]日本生活留学指北_哔哩哔哩_bilibili",
+          "stars": 14,
+          "language": null,
+          "pushed": "2025-05-10"
+        },
+        {
+          "repo": "billwanjohi/life-guide",
+          "url": "https://github.com/billwanjohi/life-guide",
+          "description": "Advice on practical matters",
+          "stars": 9,
+          "language": null,
+          "pushed": "2015-04-04"
+        },
+        {
+          "repo": "Steviewesley/the-good-life-guide",
+          "url": "https://github.com/Steviewesley/the-good-life-guide",
+          "description": "A practical, heartfelt guide to living a fulfilling life while staying productive, focused, and kind to yourself. Small daily actions that create real results without burnout.",
+          "stars": 9,
+          "language": null,
+          "pushed": "2026-06-03"
+        },
+        {
+          "repo": "maxzheng/great-life-guide",
+          "url": "https://github.com/maxzheng/great-life-guide",
+          "description": "A guide to live a great life.",
+          "stars": 7,
+          "language": null,
+          "pushed": "2023-10-07"
+        },
+        {
+          "repo": "yixinagqingyuan/life-guide-skill",
+          "url": "https://github.com/yixinagqingyuan/life-guide-skill",
+          "description": "高性价比人生指南本地知识库 Skill：原文内置，BM25F 检索、近义表达、完整上下文与引文校验。",
+          "stars": 6,
+          "language": "Python",
+          "pushed": "2026-10-10"
+        }
+      ]
+    },
+    {
+      "q": "\"decision journal\" in:name,description",
+      "total": 214,
+      "items": [
+        {
+          "repo": "ma-pony/cryptotrader-ai",
+          "url": "https://github.com/ma-pony/cryptotrader-ai",
+          "description": "加密货币 AI 自动交易与回测系统 · LangGraph 多代理辩论 + 硬性风控 + 决策日志 | AI-powered crypto trading & backtest with LangGraph multi-agent debate, hard risk controls, and Decision Journal",
+          "stars": 13,
+          "language": "Python",
+          "pushed": "2026-09-10"
+        },
+        {
+          "repo": "tonydzi/claude-bible",
+          "url": "https://github.com/tonydzi/claude-bible",
+          "description": "Make Claude Code behave consistently across repos, sessions and humans: rules-as-files governance with precedence, declined-decisions journal, objection sparring. Sanitized from a live production system. Free, MIT.",
+          "stars": 11,
+          "language": null,
+          "pushed": "2026-10-18"
+        },
+        {
+          "repo": "sinameraji/decision-journal-electron",
+          "url": "https://github.com/sinameraji/decision-journal-electron",
+          "description": "A local-first, fully offline, end-to-end encrypted decision journal for macOS. Built with Electron, React, and SQLCipher.",
+          "stars": 6,
+          "language": "TypeScript",
+          "pushed": "2026-09-09"
+        },
+        {
+          "repo": "divijg19/Sage",
+          "url": "https://github.com/divijg19/Sage",
+          "description": "Local-first, event-sourced decision journal that helps developers remember why and what for their past rationale",
+          "stars": 4,
+          "language": "Go",
+          "pushed": "2026-10-13"
+        },
+        {
+          "repo": "sattva2020/aif-ext-implementation-notes",
+          "url": "https://github.com/sattva2020/aif-ext-implementation-notes",
+          "description": "AI Factory extension: append-only decision journal for /aif-implement (markdown canon + auto HTML), wired into commit/verify/archive",
+          "stars": 3,
+          "language": "JavaScript",
+          "pushed": "2026-10-05"
+        },
+        {
+          "repo": "Shweddy/the-investor360",
+          "url": "https://github.com/Shweddy/the-investor360",
+          "description": "An Obsidian-based investment journal where Claude acts as your senior analyst — earnings ingestion, thesis trackers, risk registers, decision journals.",
+          "stars": 3,
+          "language": null,
+          "pushed": "2026-05-21"
+        },
+        {
+          "repo": "bojansandhaus/jev-decisions-hermes",
+          "url": "https://github.com/bojansandhaus/jev-decisions-hermes",
+          "description": "Jev Decisions Plugin for Hermes (and other AI Agents): tool risk reviews, human approval recommendations, evidence checks, a local decision journal, local decision supervision, and learned corrections.",
+          "stars": 3,
+          "language": "Python",
+          "pushed": "2026-10-09"
+        },
+        {
+          "repo": "rajkaria/boil-the-ocean",
+          "url": "https://github.com/rajkaria/boil-the-ocean",
+          "description": "Hand your AI agent an entire spec and walk away. Autonomous multi-sprint execution for Claude Code, Codex, Gemini CLI & any agent — decision journal, checkpointed state, and a scheduler that outlives session limits.",
+          "stars": 3,
+          "language": "Shell",
+          "pushed": "2026-07-13"
+        }
+      ]
+    },
+    {
+      "q": "\"argument mapping\" in:name,description",
+      "total": 62,
+      "items": [
+        {
+          "repo": "arguman/arguman.org",
+          "url": "https://github.com/arguman/arguman.org",
+          "description": "Argument mapping and analysis platform",
+          "stars": 1418,
+          "language": "Python",
+          "pushed": "2022-03-05"
+        },
+        {
+          "repo": "davekinkead/reasons",
+          "url": "https://github.com/davekinkead/reasons",
+          "description": "Web based argument mapping tools",
+          "stars": 19,
+          "language": "JavaScript",
+          "pushed": "2023-07-17"
+        },
+        {
+          "repo": "carlgieringer/sophistree",
+          "url": "https://github.com/carlgieringer/sophistree",
+          "description": "Argument mapping Chrome extension",
+          "stars": 11,
+          "language": "TypeScript",
+          "pushed": "2025-04-08"
+        },
+        {
+          "repo": "richer-richard/socratic-council",
+          "url": "https://github.com/richer-richard/socratic-council",
+          "description": "Local-first desktop app: 16 AI agents from 8 LLM providers debate any topic — with live argument mapping, fact-check badges, and conflict detection.",
+          "stars": 9,
+          "language": "Rust",
+          "pushed": "2026-10-18"
+        },
+        {
+          "repo": "christianvoigt/argdown-map-maker",
+          "url": "https://github.com/christianvoigt/argdown-map-maker",
+          "description": "Argument mapping plugins for the Argdown parser",
+          "stars": 3,
+          "language": "JavaScript",
+          "pushed": "2018-10-22"
+        },
+        {
+          "repo": "aadityabhatia/polis-argmap",
+          "url": "https://github.com/aadityabhatia/polis-argmap",
+          "description": "Polis Argument Mapping to Guide Policy Decisions",
+          "stars": 3,
+          "language": "Python",
+          "pushed": "2024-05-09"
+        },
+        {
+          "repo": "abalvet/nomage",
+          "url": "https://github.com/abalvet/nomage",
+          "description": "Nomage is a lexical database of French deverbal nouns, extracted from the French Treebank. Each noun's syntax-semantics argument mappings are described, each noun is linked to its original sentence in the FTB corpus.",
+          "stars": 3,
+          "language": "HTML",
+          "pushed": "2026-01-19"
+        },
+        {
+          "repo": "namin/argmap",
+          "url": "https://github.com/namin/argmap",
+          "description": "open-ended argument mapping",
+          "stars": 2,
+          "language": "TypeScript",
+          "pushed": "2025-11-17"
+        }
+      ]
+    },
+    {
+      "q": "\"evidence graph\" in:name,description",
+      "total": 338,
+      "items": [
+        {
+          "repo": "OpSafari/hypoarena",
+          "url": "https://github.com/OpSafari/hypoarena",
+          "description": "Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tournaments recovering planted skill order, paraphrase dedup, Bayesian evidence accumulation, reproducible reports. NumPy core, CPU-only torch extra.",
+          "stars": 555,
+          "language": "Python",
+          "pushed": "2026-10-14"
+        },
+        {
+          "repo": "samchon/ttsc",
+          "url": "https://github.com/samchon/ttsc",
+          "description": "A typescript-go toolchain, with evidence graph",
+          "stars": 359,
+          "language": "TypeScript",
+          "pushed": "2026-10-17"
+        },
+        {
+          "repo": "OSINT-Experts-Society/Consensus-OSINT",
+          "url": "https://github.com/OSINT-Experts-Society/Consensus-OSINT",
+          "description": "🔎 Username, email & phone OSINT — 9,700+ lookup checks from 19 projects, with profile enrichment, bulk searches, evidence graphs and expert-reviewed updates.",
+          "stars": 149,
+          "language": "Python",
+          "pushed": "2026-10-17"
+        },
+        {
+          "repo": "ByteYellow/AgentProvenance",
+          "url": "https://github.com/ByteYellow/AgentProvenance",
+          "description": "Security-oriented three-axis observability for sandboxed AI agents: model intent, app context, and runtime telemetry into verifiable evidence graphs for risk, forensics, and audit.",
+          "stars": 60,
+          "language": "Go",
+          "pushed": "2026-10-19"
+        },
+        {
+          "repo": "Emily2040/-threejs-evidence-graph",
+          "url": "https://github.com/Emily2040/-threejs-evidence-graph",
+          "description": null,
+          "stars": 38,
+          "language": "Python",
+          "pushed": "2026-10-09"
+        },
+        {
+          "repo": "wrtnlabs/evidence",
+          "url": "https://github.com/wrtnlabs/evidence",
+          "description": "Evidence Graph for SDD (Spec-Driven Development), 100% Coverage and Compliance",
+          "stars": 36,
+          "language": "TypeScript",
+          "pushed": "2026-10-19"
+        },
+        {
+          "repo": "mikeparcewski/wicked-garden",
+          "url": "https://github.com/mikeparcewski/wicked-garden",
+          "description": "The skills your coding agent can't build alone: done re-checked from evidence, graph-aware refactor, 40 QE specialists, review panels from other models.",
+          "stars": 9,
+          "language": "Python",
+          "pushed": "2026-10-20"
+        },
+        {
+          "repo": "AndrewDzzz/ModelFP",
+          "url": "https://github.com/AndrewDzzz/ModelFP",
+          "description": "Docker-first forensic audit suite for model repositories with static fusion, runtime traces, evidence graphs, and agent-assisted review.",
+          "stars": 9,
+          "language": "Python",
+          "pushed": "2026-05-18"
+        }
+      ]
+    },
+    {
+      "q": "policy OR regulation tracker in:name,description stars:>50",
+      "total": 7000,
+      "items": [
+        {
+          "repo": "koala73/worldmonitor",
+          "url": "https://github.com/koala73/worldmonitor",
+          "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+          "stars": 88855,
+          "language": "TypeScript",
+          "pushed": "2026-10-20"
+        },
+        {
+          "repo": "career-ops-hq/career-ops",
+          "url": "https://github.com/career-ops-hq/career-ops",
+          "description": "Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and a job application tracker. It helps you fill in each application; you press Submit. Runs locally in your AI coding CLI (Claude Code, Codex, OpenCode and more).",
+          "stars": 75695,
+          "language": "JavaScript",
+          "pushed": "2026-10-19"
+        },
+        {
+          "repo": "ultralytics/ultralytics",
+          "url": "https://github.com/ultralytics/ultralytics",
+          "description": "Ultralytics YOLO27, YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking",
+          "stars": 62649,
+          "language": "Python",
+          "pushed": "2026-10-20"
+        },
+        {
+          "repo": "BerriAI/litellm",
+          "url": "https://github.com/BerriAI/litellm",
+          "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+          "stars": 61597,
+          "language": "Python",
+          "pushed": "2026-10-20"
+        },
+        {
+          "repo": "ngosang/trackerslist",
+          "url": "https://github.com/ngosang/trackerslist",
+          "description": "Updated list of public BitTorrent trackers",
+          "stars": 55455,
+          "language": null,
+          "pushed": "2026-10-19"
+        },
+        {
+          "repo": "getsentry/sentry",
+          "url": "https://github.com/getsentry/sentry",
+          "description": "Developer-first error tracking and performance monitoring",
+          "stars": 45605,
+          "language": "Python",
+          "pushed": "2026-10-20"
+        },
+        {
+          "repo": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "description": ":hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+          "stars": 40350,
+          "language": "Python",
+          "pushed": "2026-10-20"
+        },
+        {
+          "repo": "searxng/searxng",
+          "url": "https://github.com/searxng/searxng",
+          "description": "SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.",
+          "stars": 38615,
+          "language": "Python",
+          "pushed": "2026-10-19"
+        }
+      ]
+    },
+    {
+      "q": "mcp knowledge base in:name,description stars:>100",
+      "total": 22,
+      "items": [
+        {
+          "repo": "nanbingxyz/5ire",
+          "url": "https://github.com/nanbingxyz/5ire",
+          "description": "5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers,  supports local knowledge base and  tools via model context protocol servers .",
+          "stars": 5372,
+          "language": "TypeScript",
+          "pushed": "2026-09-14"
+        },
+        {
+          "repo": "PleasePrompto/notebooklm-mcp",
+          "url": "https://github.com/PleasePrompto/notebooklm-mcp",
+          "description": "MCP server for NotebookLM - Let your AI agents (Claude Code, Codex) research documentation directly with grounded, citation-backed answers from Gemini. Persistent auth, library management, cross-client sharing. Zero hallucinations, just your knowledge base.",
+          "stars": 3437,
+          "language": "TypeScript",
+          "pushed": "2026-09-10"
+        },
+        {
+          "repo": "tianma-if/edgeever",
+          "url": "https://github.com/tianma-if/edgeever",
+          "description": "AI-native knowledge base & Evernote/Obsidian alternative with instant sync & native MCP. Free on Cloudflare or self-hosted via Docker.",
+          "stars": 2337,
+          "language": "TypeScript",
+          "pushed": "2026-10-19"
+        },
+        {
+          "repo": "nduckmink/arkon",
+          "url": "https://github.com/nduckmink/arkon",
+          "description": "Arkon: Enterprise AI Knowledge Hub & MCP Server. Self-hosted knowledge base for teams to manage RAG contexts, access policies, and AI skills. Connect Claude and other LLMs via Model Context Protocol (MCP) for automated, secure organizational knowledge integration.",
+          "stars": 1495,
+          "language": "Python",
+          "pushed": "2026-06-03"
+        },
+        {
+          "repo": "LING71671/open-reverselab",
+          "url": "https://github.com/LING71671/open-reverselab",
+          "description": "Open-source AI reverse-engineering agent platform and MCP server for Ghidra, Frida, x64dbg and Rizin — automated PE/APK/binary analysis, CTF and malware research, with 100+ MCP tools and a 194-article runnable knowledge base.",
+          "stars": 1282,
+          "language": "Python",
+          "pushed": "2026-10-19"
+        },
+        {
+          "repo": "chubbyguan/chubbyskills",
+          "url": "https://github.com/chubbyguan/chubbyskills",
+          "description": "把中文全渠道内容（抖音 / B站 / 小红书 / 公众号 / X / 播客）采集进个人知识库的 14 个 AI Skill：图文存图、视频转文字稿、字幕优先免 GPU、RSS/YouTube 订阅调度与每日情报简报，附带知识库 MCP server。｜ Ingest Chinese content into your personal knowledge base — image/video routing, subtitle-first transcription, feed subscriptions with daily digests, and a KB MCP server.",
+          "stars": 1265,
+          "language": "Python",
+          "pushed": "2026-10-14"
+        },
+        {
+          "repo": "docsagent/docsagent",
+          "url": "https://github.com/docsagent/docsagent",
+          "description": "⚡ DocsAgent — give your AI agents instant, private access to your personal knowledge base (Zotero, Obsidian, Apple Notes supported now, local docs on the road). Native C++ search core: BM25 + passage ranking in ~15 ms. MCP server for Claude, Cursor, Cline & any MCP client.",
+          "stars": 575,
+          "language": "TypeScript",
+          "pushed": "2026-09-28"
+        },
+        {
+          "repo": "realchendahuang/FlareMo",
+          "url": "https://github.com/realchendahuang/FlareMo",
+          "description": "Cloudflare 原生团队知识库，提供 Memos 兼容 API 与 MCP 协议 / Cloudflare-native team knowledge base",
+          "stars": 315,
+          "language": "TypeScript",
+          "pushed": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "q": "temporal knowledge graph in:name,description stars:>300",
+      "total": 5,
+      "items": [
+        {
+          "repo": "yifanfeng97/Hyper-Extract",
+          "url": "https://github.com/yifanfeng97/Hyper-Extract",
+          "description": "Hypergraph is more powerful. Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and spatio-temporal extractions — with one command.",
+          "stars": 4170,
+          "language": "Python",
+          "pushed": "2026-10-15"
+        },
+        {
+          "repo": "SpaceLearner/Awesome-DynamicGraphLearning",
+          "url": "https://github.com/SpaceLearner/Awesome-DynamicGraphLearning",
+          "description": "Awesome papers about machine learning (deep learning) on dynamic (temporal) graphs (networks / knowledge graphs).",
+          "stars": 711,
+          "language": "Shell",
+          "pushed": "2025-06-04"
+        },
+        {
+          "repo": "woojeongjin/dynamic-KG",
+          "url": "https://github.com/woojeongjin/dynamic-KG",
+          "description": "Dynamic (Temporal) Knowledge Graph Completion (Reasoning)",
+          "stars": 610,
+          "language": null,
+          "pushed": "2020-09-15"
+        },
+        {
+          "repo": "INK-USC/RE-Net",
+          "url": "https://github.com/INK-USC/RE-Net",
+          "description": "Recurrent Event Network: Autoregressive Structure Inference over Temporal Knowledge Graphs (EMNLP 2020)",
+          "stars": 465,
+          "language": "Python",
+          "pushed": "2022-03-17"
+        },
+        {
+          "repo": "Cantoria/dynamic-graph-papers",
+          "url": "https://github.com/Cantoria/dynamic-graph-papers",
+          "description": "Archive of Temporal Knowledge Reasoning in Social Network and Knowledge Graph",
+          "stars": 462,
+          "language": null,
+          "pushed": "2023-10-29"
+        }
+      ]
+    },
+    {
+      "q": "deepeval OR ragas OR evalscope in:name",
+      "total": 2246,
+      "items": [
+        {
+          "repo": "confident-ai/deepeval",
+          "url": "https://github.com/confident-ai/deepeval",
+          "description": "The LLM Evaluation Framework",
+          "stars": 18968,
+          "language": "Python",
+          "pushed": "2026-10-19"
+        },
+        {
+          "repo": "vibrantlabsai/ragas",
+          "url": "https://github.com/vibrantlabsai/ragas",
+          "description": "Supercharge Your LLM Application Evaluations 🚀",
+          "stars": 16076,
+          "language": "Python",
+          "pushed": "2026-02-24"
+        },
+        {
+          "repo": "modelscope/evalscope",
+          "url": "https://github.com/modelscope/evalscope",
+          "description": "A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and performance benchmarking.",
+          "stars": 3563,
+          "language": "Python",
+          "pushed": "2026-10-19"
+        },
+        {
+          "repo": "campusx-official/rag-eval-deepeval",
+          "url": "https://github.com/campusx-official/rag-eval-deepeval",
+          "description": "Rag evaluation using DeepEval",
+          "stars": 44,
+          "language": "Python",
+          "pushed": "2026-09-13"
+        },
+        {
+          "repo": "theaiautomators/deepeval-wrapper",
+          "url": "https://github.com/theaiautomators/deepeval-wrapper",
+          "description": "REST API wrapper for DeepEval Python library with authentication",
+          "stars": 37,
+          "language": "Python",
+          "pushed": "2025-09-04"
+        },
+        {
+          "repo": "divesh-sse/RAGAS",
+          "url": "https://github.com/divesh-sse/RAGAS",
+          "description": null,
+          "stars": 19,
+          "language": "Jupyter Notebook",
+          "pushed": "2026-06-28"
+        },
+        {
+          "repo": "jig4003/Ragas",
+          "url": "https://github.com/jig4003/Ragas",
+          "description": "R tools for analysis and visualization of single-cell subclustering data",
+          "stars": 19,
+          "language": "HTML",
+          "pushed": "2026-08-28"
+        },
+        {
+          "repo": "Coding-Crashkurse/RAG-Evaluation-with-Ragas",
+          "url": "https://github.com/Coding-Crashkurse/RAG-Evaluation-with-Ragas",
+          "description": null,
+          "stars": 19,
+          "language": "Jupyter Notebook",
+          "pushed": "2024-03-02"
+        }
+      ]
+    },
+    {
+      "q": "ruoyi ai in:name,description",
+      "total": 197,
+      "items": [
+        {
+          "repo": "YunaiV/ruoyi-vue-pro",
+          "url": "https://github.com/YunaiV/ruoyi-vue-pro",
+          "description": "🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
+          "stars": 39911,
+          "language": "Java",
+          "pushed": "2026-10-09"
+        },
+        {
+          "repo": "YunaiV/yudao-cloud",
+          "url": "https://github.com/YunaiV/yudao-cloud",
+          "description": "ruoyi-vue-pro 全新 Cloud 版本，优化重构所有功能。基于 Spring Cloud Alibaba + MyBatis Plus + Vue & Element 实现的后台管理系统 + 用户小程序，支持 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
+          "stars": 19645,
+          "language": "Java",
+          "pushed": "2026-10-07"
+        },
+        {
+          "repo": "ageerle/ruoyi-ai",
+          "url": "https://github.com/ageerle/ruoyi-ai",
+          "description": "Enterprise-grade AI agent framework with multi-provider LLM management, secure knowledge bases and high-precision RAG, visual workflow orchestration, and multi-agent coordination.",
+          "stars": 5761,
+          "language": "Java",
+          "pushed": "2026-10-20"
+        },
+        {
+          "repo": "element-plus-x/ruoyi-element-ai",
+          "url": "https://github.com/element-plus-x/ruoyi-element-ai",
+          "description": "🎨🎨🎨 Vue3.5 + Element-Plus-X1.2 + ruoyiAI，推出仿豆包/通义，企业级AI-PC端应用模版，助力企业快速搭建-全栈AI项目",
+          "stars": 490,
+          "language": "Vue",
+          "pushed": "2025-08-13"
+        },
+        {
+          "repo": "yuqing2026/ruoyi-office",
+          "url": "https://github.com/yuqing2026/ruoyi-office",
+          "description": "🔥🔥🔥RuoYi Office 基于 SpringCloud+Vue3+Vben 的中小企业办公一体化平台，涵盖 │🏢 OA协同办公 │💼 HRM人力资源 │🤝 CRM客户管理 │📋 BPM审批流 │🛍️ ERP进销存 │📑 合同管理 │📊 PMS项目管理 │🏭 EAM资产 │📦 WMS仓储 │⚙️ MES制造执行 │💰 财务管理 │📡 IoT物联网 │🛠️ 工单管理 │🛒 MALL商城 │🤖 AI智能助手 │📈 数据报表 │等十余个子系统。",
+          "stars": 436,
+          "language": "Java",
+          "pushed": "2026-04-06"
+        },
+        {
+          "repo": "ageerle/ruoyi-web",
+          "url": "https://github.com/ageerle/ruoyi-web",
+          "description": "RuoYi-AI user frontend for AI conversations, agent interactions, and knowledge-base Q&A.",
+          "stars": 424,
+          "language": "Vue",
+          "pushed": "2026-09-21"
+        },
+        {
+          "repo": "ageerle/ruoyi-admin",
+          "url": "https://github.com/ageerle/ruoyi-admin",
+          "description": "RuoYi-AI admin panel for system management, model configuration, knowledge-base management, and workflow orchestration.",
+          "stars": 407,
+          "language": "Vue",
+          "pushed": "2026-09-23"
+        },
+        {
+          "repo": "yudaocode/yudao-boot-mini",
+          "url": "https://github.com/yudaocode/yudao-boot-mini",
+          "description": "🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
+          "stars": 215,
+          "language": "PLpgSQL",
+          "pushed": "2026-09-27"
+        }
+      ]
+    }
+  ]
+}
